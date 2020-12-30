@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Chatter</string>
+    <string name="sign_out">Гарах</string>
+    <string name="contacts_permission_rationale">Access to account information is required to sign in.</string>
+
+
+    <string name="invitation_title">Чатлах</string>
+    <string name="sign_in">Нэвтрэх</string>
+    <string name="sign_up">Бүртгүүлэх</string>
+    <string name="fresh_config">Fresh Config</string>
+    <string name="cause_crash">Cause Crash</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="title_activity_add_user">AddUserActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
